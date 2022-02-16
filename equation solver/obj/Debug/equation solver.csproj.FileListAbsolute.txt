@@ -1,0 +1,23 @@
+H:\c#\equation solver\equation solver\bin\Debug\equation solver.exe.config
+H:\c#\equation solver\equation solver\bin\Debug\equation solver.exe
+H:\c#\equation solver\equation solver\bin\Debug\equation solver.pdb
+H:\c#\equation solver\equation solver\obj\Debug\equation solver.exe
+H:\c#\equation solver\equation solver\obj\Debug\equation solver.pdb
+D:\equation solver\equation solver\bin\Debug\equation solver.exe.config
+D:\equation solver\equation solver\obj\Debug\equation solver.exe
+D:\equation solver\equation solver\obj\Debug\equation solver.pdb
+D:\equation solver\equation solver\bin\Debug\equation solver.exe
+D:\equation solver\equation solver\bin\Debug\equation solver.pdb
+E:\equation solver\equation solver\bin\Debug\equation solver.exe.config
+E:\equation solver\equation solver\obj\Debug\equation solver.exe
+E:\equation solver\equation solver\obj\Debug\equation solver.pdb
+E:\equation solver\equation solver\bin\Debug\equation solver.exe
+E:\equation solver\equation solver\bin\Debug\equation solver.pdb
+E:\equation solver\equation solver\obj\Debug\equation solver.csprojResolveAssemblyReference.cache
+D:\equation solver\equation solver\obj\Debug\equation solver.csprojResolveAssemblyReference.cache
+C:\Users\Abdul\OneDrive\Documents\c# Programming\equation solver\equation solver\bin\Debug\equation solver.exe.config
+C:\Users\Abdul\OneDrive\Documents\c# Programming\equation solver\equation solver\obj\Debug\equation solver.exe
+C:\Users\Abdul\OneDrive\Documents\c# Programming\equation solver\equation solver\obj\Debug\equation solver.pdb
+C:\Users\Abdul\OneDrive\Documents\c# Programming\equation solver\equation solver\bin\Debug\equation solver.exe
+C:\Users\Abdul\OneDrive\Documents\c# Programming\equation solver\equation solver\bin\Debug\equation solver.pdb
+C:\Users\Abdul\OneDrive\Documents\c# Programming\equation solver\equation solver\obj\Debug\equation solver.csprojResolveAssemblyReference.cache
